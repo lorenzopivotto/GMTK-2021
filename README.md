@@ -6,4 +6,4 @@ Point & Click Puzzle Game
 
 Disaster events
 
-Player helps people
+Player helps familiy to reunite
